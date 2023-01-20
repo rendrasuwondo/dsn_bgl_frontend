@@ -1,4 +1,4 @@
-# erp-nbk-frontend
+# erp-bgl-frontend
 
 ## Build Setup
 

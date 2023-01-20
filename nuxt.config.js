@@ -7,7 +7,7 @@ export default {
 
     // Global page headers: https://go.nuxtjs.dev/config-head
     head: {
-        title: 'erp-nbk-frontend',
+        title: 'erp-bgl-frontend',
         htmlAttrs: {
             lang: 'en',
         },
@@ -116,16 +116,16 @@ export default {
             },
         },
         redirect: {
-            login: '/erp_nbk/login',
-            logout: '/erp_nbk/login',
-            callback: '/erp_nbk/login',
-            home: '/erp_nbk/admin/dashboard',
+            login: '/erp_bgl/login',
+            logout: '/erp_bgl/login',
+            callback: '/erp_bgl/login',
+            home: '/erp_bgl/admin/dashboard',
         },
     },
 
     // Axios module configuration: https://go.nuxtjs.dev/config-axios
     axios: {
-        baseURL: 'http://192.168.202.118:8001',
+        baseURL: 'http://localhost:8000',
     },
 
     // Build Configuration: https://go.nuxtjs.dev/config-build

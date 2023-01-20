@@ -110,7 +110,7 @@ export default {
       )
       .then((response) => {
         if (response.data.data == 'Tidak') {
-          this.$router.push('/erp_nbk/admin/dashboard')
+          this.$router.push('/erp_bgl/admin/dashboard')
         }
       })
   },
