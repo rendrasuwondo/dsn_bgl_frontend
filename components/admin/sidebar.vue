@@ -10,65 +10,65 @@
                with font-awesome or any other icon font library -->
       <div v-html="menu"></div>
 
-      <!-- <li class="nav-item has-treeview">
-            <a href="#" class="nav-link">
-              <i class="nav-icon fas fa-tachometer-alt"></i>
-              <p>
-                eLHM
-                <i class="right fas fa-angle-left"></i>
-              </p>
-            </a>
-            <ul class="nav nav-treeview">
-              <li class="nav-item">
-                <nuxt-link :to="{ name: 'admin-activity_plan' }" class="nav-link">
-                  <i class="nav-icon fas fa-book-open"></i>
-                  <p>RKH</p>
-                </nuxt-link>
-              </li>
-            </ul>
-          </li>
-           <li class="nav-item has-treeview">
-            <a href="#" class="nav-link">
-              <i class="nav-icon fas fa-tachometer-alt"></i>
-              <p>
-                Master
-                <i class="right fas fa-angle-left"></i>
-              </p>
-            </a>
-            <ul class="nav nav-treeview">
-               <li class="nav-item">
-        <nuxt-link :to="{ name: 'admin-company' }" class="nav-link">
-          <i class="nav-icon fas fa-industry"></i>
-          <p>PT</p>
-        </nuxt-link>
-      </li>
+      
 
-      <li class="nav-item">
-        <nuxt-link :to="{ name: 'admin-site' }" class="nav-link">
-          <i class="nav-icon fas fa-map-marker-alt"></i>
-          <p>Site</p>
-        </nuxt-link>
-      </li>
-            </ul>
-          </li>
-           <li class="nav-item has-treeview">
-            <a href="#" class="nav-link">
-              <i class="nav-icon fas fa-tachometer-alt"></i>
-              <p>
-                System
-                <i class="right fas fa-angle-left"></i>
-              </p>
-            </a>
-            <ul class="nav nav-treeview">
-              <li class="nav-item">
-                <nuxt-link :to="{ name: 'system-role' }" class="nav-link">
-                  <i class="nav-icon fas fa-book-open"></i>
-                  <p>Role</p>
-                </nuxt-link>
-              </li>
-            </ul>
-          </li>
-         -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
     </ul>
   </nav>
   <!-- /.sidebar-menu -->
