@@ -119,7 +119,7 @@ export default {
           tdClass: 'align-middle text-left text-nowrap nameOfTheClass',
         },
         {
-          label: 'Maksimal',
+          label: 'Batas',
           key: 'max_limit',
           tdClass: 'align-middle text-right text-nowrap nameOfTheClass',
         },
